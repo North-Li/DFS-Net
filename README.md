@@ -1,9 +1,13 @@
 ## DFS-Net
-**🔴 Tips: The complete code and dataset will be released upon acceptance of the paper.**
+
+The dataset and code can be downloaded from Baidu Netdisk:
+
+链接(Share Link):            
+
+提取码(Extraction Code):
+
+解压密码(Unzip Password):
 
 
 
-
-
-
-This dataset and code cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via zhilong_li AT hust DOT edu DOT cn.
+##### 🔴 Tips: This dataset and code cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via zhilong_li AT hust DOT edu DOT cn.
